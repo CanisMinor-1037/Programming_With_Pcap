@@ -38,4 +38,19 @@ int main(int argc, char *argv[]) {
         fprintf(stderr, "Couldn't open device %s: %s\n", dev, errbuf);
         return 2;
     }
+    /* Compile and apply the filter */
+    if (pcap_compile(handle, &fp, filter_exp, 0, net) == -1) {
+        fprintf(stderr, "Couldn't parse filter %s: %s\n", filter_exp, pcap_geterr(handle));
+        return 2;
+    }
+    if (pcap_setfilter(handle, &fp) == -1) {
+        fprintf(stderr, "Couldn't install filter %s: %s\n", filter_exp, pcap_geterr(handle));
+    }
+    /* Grab a packet */
+    packet = pcap_next(handle, &header);
+    /* Print its length */
+    printf("Jacked a packet with length of [%d]\n", header.len);
+    /* And close the session */
+    pcap_close(handle);
+    return 0;
 }
