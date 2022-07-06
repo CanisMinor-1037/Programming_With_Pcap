@@ -1,11 +1,10 @@
 /**
  * @file opening_the_device_for_sniffing.c
- * @author seed
+ * @author seed 
  * @brief https://www.tcpdump.org/pcap.html
  * use pcap_open_live()
  * @version 0.1
  * @date 2022-07-06
- * 
  * @copyright Copyright (c) 2022
  * 
  */

@@ -7,7 +7,6 @@
  * technique-1:  simply have the user tell us
  * @version 0.1
  * @date 2022-07-06
- * 
  * @copyright Copyright (c) 2022
  * 
  */

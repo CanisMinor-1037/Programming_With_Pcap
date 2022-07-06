@@ -7,7 +7,6 @@
  * technique-2: pcap just sets the device on its own
  * @version 0.1
  * @date 2022-07-06
- * 
  * @copyright Copyright (c) 2022
  * 
  */
