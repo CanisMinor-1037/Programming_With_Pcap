@@ -1,8 +1,8 @@
 /**
- * @file simple_sniffer.c
+ * @file pcap_dump.c
  * @author seed  
  * 
- * @brief a simple sniffer
+ * @brief a simple sniffer with pcap_dump()
  * @version 0.1
  * @date 2022-07-07
  * 
@@ -20,6 +20,7 @@ pcap_dumper_t * dumper = NULL;
 void processPacket(u_char *arg, const struct pcap_pkthdr * pkthdr, const u_char * packet) {
     int i = 0, *counter = (int *)arg;
     printf("Got a Packet\n");
+    pcap_dump((u_char *)dumper, pkthdr, packet);
     printf("Packet Count: %d\n", ++(*counter));
     printf("Received Packet Size: %d\n", pkthdr->len);
     printf("Payload:\n");
