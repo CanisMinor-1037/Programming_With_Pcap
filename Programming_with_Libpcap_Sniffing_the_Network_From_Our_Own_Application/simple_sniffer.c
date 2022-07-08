@@ -15,8 +15,6 @@
 #include <ctype.h>
 #define MAXBYTE2CAPTURE 2048
 
-pcap_dumper_t * dumper = NULL;
-
 void processPacket(u_char *arg, const struct pcap_pkthdr * pkthdr, const u_char * packet) {
     int i = 0, *counter = (int *)arg;
     printf("Got a Packet\n");
@@ -54,12 +52,6 @@ int main(void) {
     printf("Opening device %s\n", device);
     if ((descr = pcap_open_live(device, MAXBYTE2CAPTURE, 1, 1000, errbuf)) == NULL) {
         fprintf(stderr, "pcap_open_live error: %s\n", errbuf);
-        return 2;
-    }
-
-    /* Create the pcap dumper */
-    if ((dumper = pcap_dump_open(descr, "test.pcap")) == NULL) {
-        fprintf(stderr, "pcap_dump_open error: %s", pcap_geterr(descr));
         return 2;
     }
 
