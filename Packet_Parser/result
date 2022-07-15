@@ -1,0 +1,1582 @@
+
+Packet[1]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe393
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94ea
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 65106
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x3482
+
+Packet[2]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe394
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e9
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 65106
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x3482
+
+Packet[3]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe395
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e8
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 65106
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x3482
+
+Packet[4]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe396
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e7
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 65106
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x3482
+
+Packet[5]:
+Received Packet Size: 92
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 78
+	Identification: 0x7686
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 17
+	Header checksum: 0x61d1
+	Source Address: 192.168.145.143
+	Destination Address: 8.8.8.8
+Transport Layer[UDP]:
+	Source Port: 38489
+	Destination Port: 53
+	Length: 58
+	Checksum: 0x6293
+
+Packet[6]:
+Received Packet Size: 92
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 78
+	Identification: 0x7687
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 17
+	Header checksum: 0x61d0
+	Source Address: 192.168.145.143
+	Destination Address: 8.8.8.8
+Transport Layer[UDP]:
+	Source Port: 38489
+	Destination Port: 53
+	Length: 58
+	Checksum: 0x6293
+
+Packet[7]:
+Received Packet Size: 257
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 243
+	Identification: 0x355c
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 113
+	Protocol: 17
+	Header checksum: 0xb156
+	Source Address: 8.8.8.8
+	Destination Address: 192.168.145.143
+Transport Layer[UDP]:
+	Source Port: 53
+	Destination Port: 38489
+	Length: 223
+	Checksum: 0x8e93
+
+Packet[8]:
+Received Packet Size: 216
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 202
+	Identification: 0x5325
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 17
+	Header checksum: 0x9eb6
+	Source Address: 8.8.8.8
+	Destination Address: 192.168.145.143
+Transport Layer[UDP]:
+	Source Port: 53
+	Destination Port: 38489
+	Length: 182
+	Checksum: 0xc51d
+
+Packet[9]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0x5ba9
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4727
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797245950
+	Acknowledgement Number: 0
+
+Packet[10]:
+Received Packet Size: 66
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 52
+	Identification: 0x61c1
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x1b17
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169078768
+	Acknowledgement Number: 2797245951
+
+Packet[11]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x5baa
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x473a
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797245951
+	Acknowledgement Number: 169078769
+
+Packet[12]:
+Received Packet Size: 440
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 426
+	Identification: 0x5bab
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x45b7
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797245951
+	Acknowledgement Number: 169078769
+
+Packet[13]:
+Received Packet Size: 1514
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1500
+	Identification: 0x61c2
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x156e
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169078769
+	Acknowledgement Number: 2797246337
+
+Packet[14]:
+Received Packet Size: 1581
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1567
+	Identification: 0x61c4
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x1529
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169081689
+	Acknowledgement Number: 2797246337
+
+Packet[15]:
+Received Packet Size: 1514
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1500
+	Identification: 0x61c3
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x156d
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169080229
+	Acknowledgement Number: 2797246337
+
+Packet[16]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x5bac
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4738
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246337
+	Acknowledgement Number: 169080229
+
+Packet[17]:
+Received Packet Size: 66
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 52
+	Identification: 0x5bad
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x472b
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246337
+	Acknowledgement Number: 169080229
+
+Packet[18]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x5bae
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4736
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246337
+	Acknowledgement Number: 169083216
+
+Packet[19]:
+Received Packet Size: 212
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 198
+	Identification: 0x5baf
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4697
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246337
+	Acknowledgement Number: 169083216
+
+Packet[20]:
+Received Packet Size: 105
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 91
+	Identification: 0x61c6
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x1aeb
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169083216
+	Acknowledgement Number: 2797246495
+
+Packet[21]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x5bb0
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4734
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246495
+	Acknowledgement Number: 169083267
+
+Packet[22]:
+Received Packet Size: 1654
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1640
+	Identification: 0x5bb1
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x40f3
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797246495
+	Acknowledgement Number: 169083267
+
+Packet[23]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x61c7
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x1b1d
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169083267
+	Acknowledgement Number: 2797248095
+
+Packet[24]:
+Received Packet Size: 486
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 472
+	Identification: 0x61c8
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x196c
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169083267
+	Acknowledgement Number: 2797248095
+
+Packet[25]:
+Received Packet Size: 85
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 71
+	Identification: 0x5bb3
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4712
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797248095
+	Acknowledgement Number: 169083700
+
+Packet[26]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x5bb4
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x4730
+	Source Address: 192.168.145.143
+	Destination Address: 52.178.17.2
+Transport Layer[TCP]:
+	Source Port: 33466
+	Destination Port: 443
+	Sequence Number: 2797248126
+	Acknowledgement Number: 169083700
+
+Packet[27]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x61c9
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 102
+	Protocol: 6
+	Header checksum: 0x1b1b
+	Source Address: 52.178.17.2
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 33466
+	Sequence Number: 169083700
+	Acknowledgement Number: 2797248127
+
+Packet[28]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0806
+
+Packet[29]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0806
+
+Packet[30]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8db
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1f04
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[31]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0x9c35
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x3baa
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[32]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8dc
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1f03
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[33]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0x9c76
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x3b69
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[34]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8dd
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1f02
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[35]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0x9cd8
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x3b07
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[36]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8de
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1f01
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[37]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0x9d1e
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x3ac1
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[38]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0806
+
+Packet[39]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0806
+
+Packet[40]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0806
+
+Packet[41]:
+Received Packet Size: 42
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0806
+
+Packet[42]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe397
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e6
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 59497
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x4a6b
+
+Packet[43]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe398
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e5
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 59497
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x4a6b
+
+Packet[44]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe399
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e4
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 59497
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x4a6b
+
+Packet[45]:
+Received Packet Size: 217
+Data-Link Layer:
+	Destination: 01:00:5e:7f:ff:fa
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 203
+	Identification: 0xe39a
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 1
+	Protocol: 17
+	Header checksum: 0x94e3
+	Source Address: 192.168.144.1
+	Destination Address: 239.255.255.250
+Transport Layer[UDP]:
+	Source Port: 59497
+	Destination Port: 1900
+	Length: 183
+	Checksum: 0x4a6b
+
+Packet[46]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8df
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1f00
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[47]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xa165
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x367a
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[48]:
+Received Packet Size: 79
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 65
+	Identification: 0xee43
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 17
+	Header checksum: 0xea20
+	Source Address: 192.168.145.143
+	Destination Address: 8.8.8.8
+Transport Layer[UDP]:
+	Source Port: 52982
+	Destination Port: 53
+	Length: 45
+	Checksum: 0x6286
+
+Packet[49]:
+Received Packet Size: 161
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 147
+	Identification: 0xd49b
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 99
+	Protocol: 17
+	Header checksum: 0x2077
+	Source Address: 8.8.8.8
+	Destination Address: 192.168.145.143
+Transport Layer[UDP]:
+	Source Port: 53
+	Destination Port: 52982
+	Length: 127
+	Checksum: 0x7702
+
+Packet[50]:
+Received Packet Size: 79
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 65
+	Identification: 0xee44
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 17
+	Header checksum: 0xea1f
+	Source Address: 192.168.145.143
+	Destination Address: 8.8.8.8
+Transport Layer[UDP]:
+	Source Port: 52982
+	Destination Port: 53
+	Length: 45
+	Checksum: 0x6286
+
+Packet[51]:
+Received Packet Size: 202
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 188
+	Identification: 0xfa08
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 99
+	Protocol: 17
+	Header checksum: 0xfae0
+	Source Address: 8.8.8.8
+	Destination Address: 192.168.145.143
+Transport Layer[UDP]:
+	Source Port: 53
+	Destination Port: 52982
+	Length: 168
+	Checksum: 0x48ff
+
+Packet[52]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xd413
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01a9
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927051
+	Acknowledgement Number: 0
+
+Packet[53]:
+Received Packet Size: 66
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 52
+	Identification: 0x50c3
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 105
+	Protocol: 6
+	Header checksum: 0x5c01
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993684090
+	Acknowledgement Number: 2364927052
+
+Packet[54]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0xd414
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01bc
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927052
+	Acknowledgement Number: 3993684091
+
+Packet[55]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xb8e0
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x1eff
+	Source Address: 192.168.144.1
+	Destination Address: 192.168.145.143
+
+Packet[56]:
+Received Packet Size: 74
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 60
+	Identification: 0xa18f
+	Flags: 0x00
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 1
+	Header checksum: 0x3650
+	Source Address: 192.168.145.143
+	Destination Address: 192.168.144.1
+
+Packet[57]:
+Received Packet Size: 703
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 689
+	Identification: 0xd415
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0xff31
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927052
+	Acknowledgement Number: 3993684091
+
+Packet[58]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x50c4
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5b0c
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993684091
+	Acknowledgement Number: 2364927701
+
+Packet[59]:
+Received Packet Size: 1514
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1500
+	Identification: 0x50c6
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5556
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993685551
+	Acknowledgement Number: 2364927701
+
+Packet[60]:
+Received Packet Size: 1514
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1500
+	Identification: 0x50c5
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5557
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993684091
+	Acknowledgement Number: 2364927701
+
+Packet[61]:
+Received Packet Size: 1273
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 1259
+	Identification: 0x50c7
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5646
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993687011
+	Acknowledgement Number: 2364927701
+
+Packet[62]:
+Received Packet Size: 66
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 52
+	Identification: 0xd416
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01ae
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927701
+	Acknowledgement Number: 3993684091
+
+Packet[63]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0xd417
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01b9
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927701
+	Acknowledgement Number: 3993687011
+
+Packet[64]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0xd418
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01b8
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927701
+	Acknowledgement Number: 3993688230
+
+Packet[65]:
+Received Packet Size: 212
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 198
+	Identification: 0xd419
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x0119
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927701
+	Acknowledgement Number: 3993688230
+
+Packet[66]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x50c8
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5b08
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993688230
+	Acknowledgement Number: 2364927859
+
+Packet[67]:
+Received Packet Size: 396
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 382
+	Identification: 0x50c9
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x59b1
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993688230
+	Acknowledgement Number: 2364927859
+
+Packet[68]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0xd41a
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0x01b6
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927859
+	Acknowledgement Number: 3993688572
+
+Packet[69]:
+Received Packet Size: 550
+Data-Link Layer:
+	Destination: 00:15:5d:86:c3:0b
+	Source: 00:15:5d:df:7b:ee
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 536
+	Identification: 0xd41b
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 64
+	Protocol: 6
+	Header checksum: 0xffc4
+	Source Address: 192.168.145.143
+	Destination Address: 13.107.5.93
+Transport Layer[TCP]:
+	Source Port: 38190
+	Destination Port: 443
+	Sequence Number: 2364927859
+	Acknowledgement Number: 3993688572
+
+Packet[70]:
+Received Packet Size: 54
+Data-Link Layer:
+	Destination: 00:15:5d:df:7b:ee
+	Source: 00:15:5d:86:c3:0b
+	Type: 0x0800
+Network Layer:
+	Ver.: 0x4
+	THL: 0x5
+	Type of Service: 0x00
+	Total length: 40
+	Identification: 0x50ca
+	Flags: 0x02
+	Fragment offset: 0x0000
+	Time to live: 106
+	Protocol: 6
+	Header checksum: 0x5b06
+	Source Address: 13.107.5.93
+	Destination Address: 192.168.145.143
+Transport Layer[TCP]:
+	Source Port: 443
+	Destination Port: 38190
+	Sequence Number: 3993688572
+	Acknowledgement Number: 2364928355
