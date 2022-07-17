@@ -5,7 +5,7 @@ Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -23,14 +23,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x3482
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[2]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -48,14 +61,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x3482
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[3]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -73,14 +99,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x3482
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[4]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -98,14 +137,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x3482
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[5]:
 Received Packet Size: 92
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -123,14 +175,19 @@ Transport Layer[UDP]:
 	Destination Port: 53
 	Length: 58
 	Checksum: 0x6293
-
+Application Layer
+	. . . . . . . 
+	. . . . . . m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . . . . 
+	
 Packet[6]:
 Received Packet Size: 92
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -148,14 +205,19 @@ Transport Layer[UDP]:
 	Destination Port: 53
 	Length: 58
 	Checksum: 0x6293
-
+Application Layer
+	" . . . . . . 
+	. . . . . . m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . . . . 
+	
 Packet[7]:
 Received Packet Size: 257
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -173,14 +235,29 @@ Transport Layer[UDP]:
 	Destination Port: 38489
 	Length: 223
 	Checksum: 0x8e93
-
+Application Layer
+	" . . . . . . 
+	. . . . . . m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . . . . . . . . . 
+	. . . . . . ' . m o b i l e . e 
+	v e n t s . d a t a . t r a f f 
+	i c m a n a g e r . n e t . . > 
+	. . . . . . . & . ) . o n e d s 
+	c o l p r d e u s 1 2 . e a s t 
+	u s . c l o u d a p p . a z u r 
+	e . ) . . . . . . . . . ' . 1 . 
+	n s 1 - 2 0 1 . a z u r e - d n 
+	s . ) . m s n h s t . . . . ' . 
+	. . . . . . . , . . : . . . . < 
+	
 Packet[8]:
 Received Packet Size: 216
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -198,14 +275,27 @@ Transport Layer[UDP]:
 	Destination Port: 38489
 	Length: 182
 	Checksum: 0xc51d
-
+Application Layer
+	. . . . . . . 
+	. . . . . . m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . . . . . . . . . 
+	. . . . ` . ' . m o b i l e . e 
+	v e n t s . d a t a . t r a f f 
+	i c m a n a g e r . n e t . . > 
+	. . . . . . . . . - . o n e d s 
+	c o l p r d w e u 0 2 . w e s t 
+	e u r o p e . c l o u d a p p . 
+	a z u r e . ) . q . . . . . . . 
+	. . . 4 . . . 
+	
 Packet[9]:
 Received Packet Size: 74
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -223,14 +313,23 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797245950
 	Acknowledgement Number: 0
-
+	Data Offset: 10
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   0   0   0   1   0   
+	Advertised Window: 64240
+	Checksum: 0x981a
+	Urgent Offset: 0
+	Options and Padding:
+		02 04 05 b4 04 02 08 0a b7 46 2f 
+		d5 00 00 00 00 01 03 03 07 
+		
 Packet[10]:
 Received Packet Size: 66
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -248,14 +347,23 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169078768
 	Acknowledgement Number: 2797245951
-
+	Data Offset: 8
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   1   0   
+	Advertised Window: 65535
+	Checksum: 0x1bf5
+	Urgent Offset: 0
+	Options and Padding:
+		02 04 05 a0 01 03 03 08 01 01 04 
+		02 
+		
 Packet[11]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -273,6 +381,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797245951
 	Acknowledgement Number: 169078769
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 502
+	Checksum: 0x9806
+	Urgent Offset: 0
 
 Packet[12]:
 Received Packet Size: 440
@@ -280,7 +394,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -298,14 +412,46 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797245951
 	Acknowledgement Number: 169078769
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 502
+	Checksum: 0x9988
+	Urgent Offset: 0
+Application Layer
+	. . . . } . . . y . . 
+	| & . . M k . . . . . ^ . : . n 
+	. . . . . ! . . . . . . . . n . 
+	  ! 3 . . . I . . u . . . . . . 
+	' . . . . . . + . . . . L . . . 
+	. . v . . . . . . . / . + . 0 . 
+	, . . . ' . g . ( . k . . . . . 
+	. . . . . . . . . . . . . . ] . 
+	a . W . S . . . . . . . . . . . 
+	\ . ` . V . R . $ . j . # . @ . 
+	. . . . 9 . 8 . . . . . 3 . 2 . 
+	. . . . . . Q . . . . . . . P . 
+	= . < . 5 . / . . . . . . . . . 
+	% . # . .   m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . . . . . . . . . 
+	. . . . . . . . . . . . . . . # 
+	. . . . . . . . . . . . . 0 . . 
+	. . . . . . . . . . . . . . . . 
+	. . . . . . . . . . . . . . . . 
+	. . . . . . . . . . . . . . . + 
+	. . . . . . . . - . . . . . 3 . 
+	& . $ . . .   . . . . . . a . q 
+	# . . . . S r { . . r x . | . J 
+	. . ; A . . q 
+	
 Packet[13]:
 Received Packet Size: 1514
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -323,14 +469,113 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169078769
 	Acknowledgement Number: 2797246337
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 2051
+	Checksum: 0x5574
+	Urgent Offset: 0
+Application Layer
+	. . . . Z . . . Q . . 
+	b . V . b . . . . . | | ? . . y 
+	. . .   . . . t . . 7 " . . . . 
+	  . . . . c 8 b . . . h ( . 5 6 
+	. . A .   . . . . . . t . . r 8 
+	. . 0 . . . . . . . . . . . . . 
+	. . . . . . . . . 0 . . . 0 . . 
+	t . . . . . . . 3 . > ] . . . . 
+	O . O ) . . . . > ] . 0 . . . * 
+	. H . . . . . . . . 0 Y 1 . 0 . 
+	. . U . . . . U S 1 . 0 . . . U 
+	. . . . M i c r o s o f t   C o 
+	r p o r a t i o n 1 * 0 ( . . U 
+	. . . ! M i c r o s o f t   A z 
+	u r e   T L S   I s s u i n g   
+	C A   0 2 0 . . . 2 2 0 5 2 1 0 
+	7 1 2 1 2 Z . . 2 3 0 5 1 6 0 7 
+	1 2 1 2 Z 0 r 1 . 0 . . . U . . 
+	. . U S 1 . 0 . . . U . . . . W 
+	A 1 . 0 . . . U . . . . R e d m 
+	o n d 1 . 0 . . . U . . . . M i 
+	c r o s o f t   C o r p o r a t 
+	i o n 1 $ 0 " . . U . . . . * . 
+	e v e n t s . d a t a . m i c r 
+	o s o f t . c o m 0 . . " 0 . . 
+	. * . H . . . . . . . . . . . . 
+	. 0 . . . . . . . . . . l a K [ 
+	. , . . . . . [ + . . . * . i . 
+	. B . _ . | n . 6 . . . . . . . 
+	. . . M . D $ t . . B . . . . . 
+	. . a Z . Z x G \ . # . . . b . 
+	h N . . . . . M . . . . . 1 . O 
+	M . F . . . . . . . . . . . % z 
+	r . Y B . r t . . . . L . . \ O 
+	. W . . . . . . . b ? : . . . . 
+	Z F . F + M . . L . . F . i . . 
+	. . . . # . l . \ . Z . U . I . 
+	. 0 . 0 z . . . . E . . ] . . . 
+	d . . . . . . . . . . 0 . O . R 
+	. . u 6 i : . < . + ? . . . . % 
+	? 1 \ . 1 . . . . H . c ! . . . 
+	~ . 5 . P l . . . W m . . G [ k 
+	. . c . . . a . ~ . . . . . . . 
+	. . 2 0 . . . 0 . . | . . + . . 
+	. . . y . . . . . . l . . . h . 
+	f . u . . > . . > . . 5 2 . W ( 
+	. . k . . . . . . k . . i . w } 
+	m . . n . . . . . ~ . . . . . . 
+	. F 0 D .   h l E . N . . . . . 
+	. ' . - . . . d . . . . . . . . 
+	. . 4 . o S .   ` . . o . . n : 
+	h . . . I . . . & m . U . . . . 
+	6 . . . . . K - . u . z 2 . T . 
+	. - .   . 8 . R . . . . p 2 . . 
+	M ; . + . : W . R . R . . . . . 
+	~ . . . . . . . F 0 D .   . . . 
+	. . 2 M . . . : " # . . . 6 . e 
+	7 . . . . . . . . . ; . n .   " 
+	. . . . s @ . ^ . Y . . . D . . 
+	. . z o . . . . . . e / . . . . 
+	v . . s w . . . P . c . . . . . 
+	. . J y - . g . . . . . . . y 6 
+	. . . . . . . ~ . . . . . . . G 
+	0 E . ! . . . . . . . . . u . . 
+	. . S . G a . . . . . ~ ~ : Z 2 
+	[ . . w . .   . . L . x . . y . 
+	. . . . . . F . . . . . . i . . 
+	. . . . . ( . 0 ' . . + . . . . 
+	. 7 . . . . 0 . 0 . . . + . . . 
+	. . . . 0 . . . + . . . . . . . 
+	0 < . . + . . . . . 7 . . . / 0 
+	- . % + . . . . . 7 . . . . . . 
+	. . . F . . . . . . . . . . . ] 
+	. . . i . . . > . . d . . % 0 . 
+	. . . + . . . . . . . . . . 0 . 
+	. 0 m . . + . . . . . 0 . . a h 
+	t t p : / / w w w . m i c r o s 
+	o f t . c o m / p k i o p s / c 
+	e r t s / M i c r o s o f t % 2 
+	0 A z u r e % 2 0 T L S % 2 0 I 
+	s s u i n g % 2 0 C A % 2 0 0 2 
+	% 2 0 - % 2 0 x s i g n . c r t 
+	0 - . . + . . . . . 0 . . ! h t 
+	t p : / / o n e o c s p . m i c 
+	r o s o f t . c o m / o c s p 0 
+	. . . U . . . . . . . . . . ` . 
+	. . ` 2 m > f . . . . . J r 0 . 
+	. . U . . . . . . . . . . . 0 . 
+	. G . . U . . . . . > 0 . . : . 
+	. * . e v e n t s . d a t a . m 
+	i c r o s o f t . c o m . . e v 
+	e n t s . d a t a 
+	
 Packet[14]:
 Received Packet Size: 1581
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -348,14 +593,117 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169081689
 	Acknowledgement Number: 2797246337
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 2051
+	Checksum: 0x9dfd
+	Urgent Offset: 0
+Application Layer
+	. . F . ( . . . . . * 
+	. A s . . . . . . . . . Y . # . 
+	. . . b . " + . . . . . ? . . q 
+	. . . . k 4 . . # ( . . $ . K . 
+	e . . ] . C . V . . . C ) . C & 
+	. . . I . . . . P . . . U . M . 
+	. 8 . + ! . ] . . . . . 8 t . . 
+	+ / . 9 . . y . . . . . . ! . . 
+	. . h * . . . . . . ; x . y . $ 
+	  X C . . s ~ . . . . f . . 1 J 
+	. . . I , . O . ' . . . . K . . 
+	. . . . . . . . O . . . ? . . . 
+	. . . m . ' . $ V . 4 . % C . . 
+	. X ] . . . . . . % . # . . . . 
+	p . . . . . ' . . . z . n . ? . 
+	. . t X . A . @ . . . + . . . . 
+	P 9 . . . . 5 . J X . . . P Q . 
+	l . . g . . . . m . . . ~ . . . 
+	. A . . A f @ . W y . . . W . . 
+	. . 7 . . u } . _ . b . . - n . 
+	J j q d . . \ L . 9 { S . l . W 
+	. $   . . . 1 { . . . . m . \ . 
+	/ T . . . - O . . . . . o . l . 
+	. . Q . . . . J . . - X a . . . 
+	. U . . . . K . : ' & t f J . . 
+	. S . . * . . " \ . d . : . . X 
+	. 3 ^ . . Z p . . . i . " B . . 
+	. . P W 8 . . . c " . ` i . . o 
+	. . . . . . . . . . 0 . . . 0 . 
+	. . U . . . . . . . . . . ! b & 
+	. . . y . a A . ` . b g . 0 . . 
+	. U . # . . 0 . . . N " T   . . 
+	. . n . . . . . . . . . . 9 0 . 
+	. . U . . . . . . . . . . . 0 . 
+	. . U . % . . 0 . . . + . . . . 
+	. . . . . + . . . . . . . 0 . . 
+	. U . . . . . . . 0 . . . . . . 
+	. 0 v . . + . . . . . . . . j 0 
+	h 0 $ . . + . . . . . 0 . . . h 
+	t t p : / / o c s p . d i g i c 
+	e r t . c o m 0 @ . . + . . . . 
+	. 0 . . 4 h t t p : / / c a c e 
+	r t s . d i g i c e r t . c o m 
+	/ D i g i C e r t G l o b a l R 
+	o o t G 2 . c r t 0 { . . U . . 
+	. t 0 r 0 7 . 5 . 3 . 1 h t t p 
+	: / / c r l 3 . d i g i c e r t 
+	. c o m / D i g i C e r t G l o 
+	b a l R o o t G 2 . c r l 0 7 . 
+	5 . 3 . 1 h t t p : / / c r l 4 
+	. d i g i c e r t . c o m / D i 
+	g i C e r t G l o b a l R o o t 
+	G 2 . c r l 0 . . . U .   . . 0 
+	. 0 . . . g . . . . . 0 . . . g 
+	. . . . . 0 . . . + . . . . . 7 
+	. . . . . . . 0 . . . * . H . . 
+	. . . . . . . . . . . 3 . . . . 
+	c . M . . A n . . : . .   S . . 
+	. . G . e . . G _ 7 . ~ . J A Z 
+	. a . . B . . . . . & J . . : O 
+	. . O . . ~ W / l . . R A V . P 
+	. t A . . , y . m ~ . . q 1 . . 
+	. X . x . N . . . . . N C . . Y 
+	. a F . . < . . < a G @ . . . . 
+	. . E . . " . . Y = B . X . " w 
+	V . A S 9 . . R . ( . . . N . . 
+	. . R . . . . t > K . . . . . r 
+	. { . . l . . . = g . 9 q . . n 
+	w . . . . ' . . ^ . . . l . . v 
+	. ? . . . ? . . = . n / A , ; s 
+	  . - . . % . 5 z y . [ . . 7 ) 
+	A . T . . . . . . . . . . . ' w 
+	. . . . . h N . . ^ . . . . i . 
+	. . a . ^ B . o . . . . . Q . < 
+	. . . p . . . W . . [ J . % } . 
+	. . . . . h | . . x 9 . i . & . 
+	: . . . . . . . . . . ' . 3 . . 
+	. . . 4 . . . r . x . . . j . . 
+	. . N . i . . W . - m . ? . . . 
+	. . . U . . . . . R . _ . . . . 
+	d . . . _ . . . ^ . r . . ? . . 
+	8 . . . C . . . [ . w { . . . . 
+	. P . . . 5 . . . . . . . . L . 
+	. a . . X . W . z V . . / . . . 
+	. D _ . ( w 8 . . m . . . . } . 
+	. . . . x . . . . . o . . V W . 
+	e . . . . E . . ? & . $ . . . . 
+	. . . D R _ l . x . . . . . F . 
+	. . v . } . . ( . . . . . . o . 
+	V . . C . g . . . k S . . . { 4 
+	. : . . . w . . . . . . . . < . 
+	. K M . . . . . . . Z e Y v . . 
+	. . . U o . . O 9 w . 3 6 . . . 
+	. > ( _ . . . . % 5 I . . . . . 
+	. . G . q .   P . . . . . . . . 
+	. . . O 1 . . . . . . . 
+	
 Packet[15]:
 Received Packet Size: 1514
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -373,14 +721,113 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169080229
 	Acknowledgement Number: 2797246337
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 2051
+	Checksum: 0x2a46
+	Urgent Offset: 0
+Application Layer
+	. m i c r o s o f t . 
+	c o m . . * . p i p e . a r i a 
+	. m i c r o s o f t . c o m . . 
+	p i p e . s k y p e . c o m . . 
+	* . p i p e . s k y p e . c o m 
+	. " * . m o b i l e . e v e n t 
+	s . d a t a . m i c r o s o f t 
+	. c o m .   m o b i l e . e v e 
+	n t s . d a t a . m i c r o s o 
+	f t . c o m . . * . e v e n t s 
+	. d a t a . m s n . c o m . . e 
+	v e n t s . d a t a . m s n . c 
+	o m . . * . e v e n t s . d a t 
+	a . m s n . c n . . e v e n t s 
+	. d a t a . m s n . c n . . o c 
+	a . m i c r o s o f t . c o m . 
+	. w a t s o n . m i c r o s o f 
+	t . c o m 0 . . . U . . . . . . 
+	. 0 . 0 d . . U . . . ] 0 [ 0 Y 
+	. W . U . S h t t p : / / w w w 
+	. m i c r o s o f t . c o m / p 
+	k i o p s / c r l / M i c r o s 
+	o f t % 2 0 A z u r e % 2 0 T L 
+	S % 2 0 I s s u i n g % 2 0 C A 
+	% 2 0 0 2 . c r l 0 f . . U .   
+	. _ 0 ] 0 Q . . + . . . . . 7 L 
+	. } . . 0 A 0 ? . . + . . . . . 
+	. . . 3 h t t p : / / w w w . m 
+	i c r o s o f t . c o m / p k i 
+	o p s / D o c s / R e p o s i t 
+	o r y . h t m 0 . . . g . . . . 
+	. 0 . . . U . # . . 0 . . . . . 
+	. . ! b & . . . y . a A . ` . b 
+	g . 0 . . . U . % . . 0 . . . + 
+	. . . . . . . . . + . . . . . . 
+	. 0 . . . * . H . . . . . . . . 
+	. . . . . 2 . . . . . . . ( . . 
+	. . . \ x . $ . . . S . . 3 P . 
+	q . . > ` u I . . K | D . . ] . 
+	O . . . . . . S . o 4 . . . . . 
+	' T . . S . . 0   . . . . i . . 
+	z ? . + . . . k . . T . b . . . 
+	. . C . . ' . . . . . . ; . i . 
+	. . q . . . . L 9 . . . . . - . 
+	. . P . . g . 1 k | . a . . . . 
+	. . g , . . . Z | n . i Y . . . 
+	. b c > c F F . . . . . . | . 7 
+	= " H . . . . $ . . . . s . . . 
+	. . ) k . . # . . . I . h . . . 
+	. ; . . . . U . . & u W . % . . 
+	. 7 . . . . r . ` . @ ; U 4 + ? 
+	. . . . . . . c / . x > . . . . 
+	B . d . . . L . . . 8 . . . . . 
+	. . . . . . . K ' O < . . k h . 
+	k . . . . . $ N , \ i R . . . . 
+	c T . . q . . . . % . ? . . . T 
+	; . . . 4 . . . s . . . 0 v . . 
+	. . . . 9 . . . . . b x . # . n 
+	. . . . . 6 . . . | . P P D . . 
+	: . . . . . . . . . . . . . . . 
+	V . ^ c . s . . $ . Y . . @ . + 
+	. . . ( . z * K . 5 g . X & . . 
+	A . J Y . . J . !   . . V . V . 
+	. . . . . - L . . . { . . . ' . 
+	H O . . . . . . . e . . . . . . 
+	. . . . .   . . . . r . M . . . 
+	. . A . . . . 5 V . w . . . . . 
+	. . . T . . . . . . e . . . . . 
+	. . . . . . . . 0 . . . 0 . . . 
+	. . . . . . . . j . | . . . . . 
+	. . . . . 2 . 0 . . . * . H . . 
+	. . . . . . 0 a 1 . 0 . . . U . 
+	. . . U S 1 . 0 . . . U . . . . 
+	D i g i C e r t   I n c 1 . 0 . 
+	. . U . . . . w w w . d i g i c 
+	e r t . c o m 1   0 . . . U . . 
+	. . D i g i C e r t   G l o b a 
+	l   R o o t   G 2 0 . . . 2 0 0 
+	7 2 9 1 2 3 0 0 0 Z . . 2 4 0 6 
+	2 7 2 3 5 9 5 9 Z 0 Y 1 . 0 . . 
+	. U . . . . U S 1 . 0 . . . U . 
+	. . . M i c r o s o f t   C o r 
+	p o r a t i o n 1 * 0 ( . . U . 
+	. . ! M i c r o s o f t   A z u 
+	r e   T L S   I s s u i n g   C 
+	A   0 2 0 . . " 0 . . . * . H . 
+	. . . . . . . . . . . . 0 . . . 
+	. . . . . . b ; R . . N . . . . 
+	. b d . . . . . . . . - . . . # 
+	l . R . < . Z . . P h . . . . . 
+	. . . . ) a 2 ! . 5 . . . . O . 
+	I . . L . . . . . 
+	
 Packet[16]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -398,6 +845,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246337
 	Acknowledgement Number: 169080229
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x9806
+	Urgent Offset: 0
 
 Packet[17]:
 Received Packet Size: 66
@@ -405,7 +858,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -423,14 +876,23 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246337
 	Acknowledgement Number: 169080229
-
+	Data Offset: 8
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x9812
+	Urgent Offset: 0
+	Options and Padding:
+		01 01 05 0a 0a 13 fb 59 0a 14 01 
+		50 
+		
 Packet[18]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -448,6 +910,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246337
 	Acknowledgement Number: 169083216
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 485
+	Checksum: 0x9806
+	Urgent Offset: 0
 
 Packet[19]:
 Received Packet Size: 212
@@ -455,7 +923,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -473,14 +941,32 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246337
 	Acknowledgement Number: 169083216
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x98a4
+	Urgent Offset: 0
+Application Layer
+	. . . . f . . . b a . 
+	i 3 k } . . f A z . . D . . . . 
+	. 1 . . . T 1 . . . . . p . . . 
+	. v t . . . ( . . . . . t . T . 
+	i . . . . . Z # . . . . . . . ^ 
+	g . @ u . T . . . . a . . v . t 
+	1 . . . . . . . . . E Z . . . . 
+	. . . . . . . . . . ( . . y . . 
+	A . . . | . 4 . X . ( . . . . . 
+	. . . . y W . . . . . $ F . . O 
+	. . . 
+	
 Packet[20]:
 Received Packet Size: 105
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -498,14 +984,25 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169083216
 	Acknowledgement Number: 2797246495
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 2051
+	Checksum: 0x43e0
+	Urgent Offset: 0
+Application Layer
+	. . . . . . . . . . ( 
+	. . . . . . . . . . . X . . e . 
+	. i . . M W . . . ? . . . . . f 
+	. . E . . . . . 
+	
 Packet[21]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -523,6 +1020,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246495
 	Acknowledgement Number: 169083267
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x9806
+	Urgent Offset: 0
 
 Packet[22]:
 Received Packet Size: 1654
@@ -530,7 +1033,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -548,14 +1051,122 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797246495
 	Acknowledgement Number: 169083267
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x9e46
+	Urgent Offset: 0
+Application Layer
+	. . . . ; . . y . . A 
+	. . . . o . . . m . . . . . . @ 
+	y . . . + . & . . . . E G . 2 . 
+	. . E . . O / . ^ d . . F . T . 
+	K f . . 1 . N . . . . $ 3 . . . 
+	. . . . . . : . P . . > . f . . 
+	. . y . \ . h ? . . . . O U . . 
+	. i . ? * . . . . . , > . . , x 
+	. C . . . . . . N i x g j . . . 
+	1 0 Z . . . . ( F 9 C . . . . . 
+	F > Q . + . . . . .   . . . . . 
+	. . . 6 . . . w . . . . . c . ( 
+	. E L . . . . . . . . . n . . v 
+	4 . 4 . . . . . . . . e . . . . 
+	F . . ] . . . . . . . . I . # A 
+	. . . . . . * . * . .   . T . . 
+	. K . . l P O H ) . . $ ( . 7 . 
+	d . ? . . . W 0 . . . . W . t . 
+	. . . . . . Z . Q 9 . ] . . r . 
+	. E L g . . . . / e u . 6 . .   
+	. . . " . . . . . ~ . 9 z . . . 
+	. . . . . . . P R . O . . . . & 
+	3 ; .   . . . . V . . x Q . . # 
+	. . 6 K . l . , . . . . . . 7 \ 
+	2 . . 8 . . . K . . . _ . . . . 
+	. D - . Q . . . . H . X . . @ . 
+	, E i . ] t Q c s z . / ` T . | 
+	. M ~ ` . . . Q . . . . . . . P 
+	. . 3 ^ . . . . a . . . . . 5 . 
+	. . . > 0 . . . A e . u S I 6 . 
+	. . . . i T . . . . . . . / . w 
+	. F c T . k C | . . . . . . . . 
+	. 8 . . P . d n . . . . . y . . 
+	. . . . . , . . ? ~ n f . . i . 
+	. . . . w L ) P . . . . . . m . 
+	. t . ) . P . # . . . . . . . . 
+	i . . . . . { . . . . . | M . . 
+	. d . . . . M . 0 q . a P . N . 
+	. . * 6 . . . . b @ . . . . > . 
+	} @ @ . . / . . . E h . . . ` . 
+	. , U . . M . r . g . t F . . . 
+	` . . . , . . . . . . . 9 4 C _ 
+	. . ] . P . o U # W ( U z . 0 < 
+	. . P . . . . V V . . 1 > z . . 
+	. ^ . $ . M ' . . 4 \ + . . . . 
+	. . . Q . M . . - Y F k . d . . 
+	u % h . . ! J . . . . . ~ " . m 
+	. T . 7 . E . . . & . J . . . I 
+	$   _ > . . . . [ N . W . . . . 
+	. . F x . . m 4 . . j . { . . . 
+	0 U ' o . M . . . . . s ' . . k 
+	. c . . . . " . . . . . . v . } 
+	. . x x . w Z . w - y . . . n . 
+	T ! . . . . . . ! 9 . . G = . . 
+	3 . ) ) L . : W . . . . . # . * 
+	h . . . . . . . . Y . > . . . s 
+	. B . . ` . | 4 i % . . . . D ( 
+	1 n . . ` . 2 . . q . . o J . . 
+	. & . ( ) = U . [ i . # . . s 1 
+	. . . u . . . . . 6 . . . $ . J 
+	( . . . E Q . I ; . . H . - P . 
+	Z = A . . V : . . . " . . . . L 
+	. . 5 . r . . . . . . 6 . P . * 
+	. . . h y q . . = . . . 4 . . . 
+	. l n . . . . I ? . \ . . . I V 
+	T h O . . . > . f . F . v J . 4 
+	> . . } . . . . . . . . . . . . 
+	. . x Y . . Q v n . q w . . F z 
+	. . . . r . u i . s l F . . . . 
+	  q . . . . d . 0 g . . t . . . 
+	. d . . - . * . . 5 P . B # . . 
+	T . . . . o . % . . . . . . h . 
+	. w - . . . u P . . $ S } . . r 
+	. H . . . . | . . . . b . . p . 
+	. . #   2 . ? . . . . . . . . ( 
+	F . - ^ e . . " . p . . . ] . Z 
+	O . . . . 8 . c ` . . . . * . . 
+	. . 5 . . 0 . . . . , . . . 1 l 
+	L . . . . . . p . h E . . . . . 
+	v . . > . D C . I V R . . d . y 
+	. . . . . . q . . x . # G . . } 
+	. . ? . . D . . ~ . b . . . . . 
+	. . . . . ' f . y . . k x l ` | 
+	. G . . S 3 . & . . i . y . . . 
+	. . . C . . . . . . 4 . m . . . 
+	. . . . . . . _ Z . . . . w . . 
+	. 8 . . . . . . . . . + . ^ . Z 
+	: w . . . . o . O s 6 . . G . . 
+	^ . v . b . B ^ . . . h 2 . . . 
+	. . . . . . [ M . ` . . . X o . 
+	S w 0 . . 5 . . . ( . O Y . 0 Z 
+	. . . . 9 K T . . [ . . . . I . 
+	Y . z . . . N . . . - ; . . . . 
+	> E . J . . . . K l . . . . . . 
+	. . . . . . . . 6 . 8 . . 3 h c 
+	? _ . . . . . . . ( z ! . b . . 
+	. . . . X + . . . C g . . . . F 
+	. Y . . ) h } . . ! . . + . . . 
+	6 W . _ . . . . { . . q . . . . 
+	. D . , { 3 / - . . . * . . . . 
+	. m . . W 
+	
 Packet[23]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -573,6 +1184,12 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169083267
 	Acknowledgement Number: 2797248095
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 2053
+	Checksum: 0x3abd
+	Urgent Offset: 0
 
 Packet[24]:
 Received Packet Size: 486
@@ -580,7 +1197,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -598,14 +1215,49 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169083267
 	Acknowledgement Number: 2797248095
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   1   
+	Advertised Window: 2053
+	Checksum: 0x35e1
+	Urgent Offset: 0
+Application Layer
+	. . . . . . . . . . . 
+	. . . a f . . . . . J . . . . Z 
+	. . . . . . . . . . . . . . % . 
+	. S . . . . . . . . . . . ( a . 
+	. . . 9 . . H . . o ! . . p . J 
+	b S . . x . . . . . J v . . . 5 
+	. . . .   9 . n . . . L . . u . 
+	. . . . . . ! 6 X b . . . . " . 
+	; . 4 Z S . . . q . . , . C # . 
+	. . ; . . . . . . X . X ~ . = . 
+	I . . . / . O . U B . . b G . . 
+	. > . X k . ` s . . . . . . . . 
+	. q . . # F . . k . } . . . g # 
+	. . d ~ . . + . . . 7 . . . . . 
+	. . . h . . . . . . p R . j A . 
+	. P   O . . . - F 2 . . R L C . 
+	] . ) B . j . . y . = . . . . . 
+	~ ' . . . . . . * . ! y X . . . 
+	. . : . . . . % . w . Y ) . 8 . 
+	. . . . m . . . / . _ O L . . d 
+	. . g . . . . . . t . 3 4 . | . 
+	o M . . d . . c { . . . . N ) . 
+	. < . . . . # . . . u . { 4 . . 
+	. 1 . . O . . U . . . . . J . . 
+	. . . . s ) . . . . . . . . . Z 
+	. . . . . . . . s . . W . . . ] 
+	. P . . 6 ~ ] . . ) . . . 5 . . 
+	. . . . . 
+	
 Packet[25]:
 Received Packet Size: 85
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -623,14 +1275,24 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797248095
 	Acknowledgement Number: 169083700
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x9825
+	Urgent Offset: 0
+Application Layer
+	. . . . . . . y . . A 
+	. . s . . . . . . . . . 4 . . ` 
+	. c . b 
+	
 Packet[26]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -648,6 +1310,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2797248126
 	Acknowledgement Number: 169083700
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   1   
+	Advertised Window: 501
+	Checksum: 0x9806
+	Urgent Offset: 0
 
 Packet[27]:
 Received Packet Size: 54
@@ -655,7 +1323,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -673,6 +1341,12 @@ Transport Layer[TCP]:
 	Destination Port: 33466
 	Sequence Number: 169083700
 	Acknowledgement Number: 2797248127
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 2053
+	Checksum: 0x38ec
+	Urgent Offset: 0
 
 Packet[28]:
 Received Packet Size: 42
@@ -680,6 +1354,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Request
+	Sender MAC: 00:15:5D:86:C3:0B:
+	Sender IP: 192.168.144.1.
+	Target MAC: 00:15:5D:DF:7B:EE:
+	Target IP: 192.168.145.143.
 
 Packet[29]:
 Received Packet Size: 42
@@ -687,6 +1372,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Reply
+	Sender MAC: 00:15:5D:DF:7B:EE:
+	Sender IP: 192.168.145.143.
+	Target MAC: 00:15:5D:86:C3:0B:
+	Target IP: 192.168.144.1.
 
 Packet[30]:
 Received Packet Size: 74
@@ -694,7 +1390,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -714,7 +1410,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -734,7 +1430,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -754,7 +1450,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -774,7 +1470,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -794,7 +1490,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -814,7 +1510,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -834,7 +1530,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -854,6 +1550,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Request
+	Sender MAC: 00:15:5D:86:C3:0B:
+	Sender IP: 192.168.144.1.
+	Target MAC: 00:15:5D:DF:7B:EE:
+	Target IP: 192.168.145.143.
 
 Packet[39]:
 Received Packet Size: 42
@@ -861,6 +1568,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Reply
+	Sender MAC: 00:15:5D:DF:7B:EE:
+	Sender IP: 192.168.145.143.
+	Target MAC: 00:15:5D:86:C3:0B:
+	Target IP: 192.168.144.1.
 
 Packet[40]:
 Received Packet Size: 42
@@ -868,6 +1586,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Request
+	Sender MAC: 00:15:5D:DF:7B:EE:
+	Sender IP: 192.168.145.143.
+	Target MAC: 00:00:00:00:00:00:
+	Target IP: 192.168.144.1.
 
 Packet[41]:
 Received Packet Size: 42
@@ -875,6 +1604,17 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0806
+ARP:
+	Received Packet Size: 42 bytes
+	Hardware type: Ethernet
+	Protocol Type: IPv4
+	Hardware Size: 6
+	Protocol Size: 4
+	Operation: ARP Reply
+	Sender MAC: 00:15:5D:86:C3:0B:
+	Sender IP: 192.168.144.1.
+	Target MAC: 00:15:5D:DF:7B:EE:
+	Target IP: 192.168.145.143.
 
 Packet[42]:
 Received Packet Size: 217
@@ -882,7 +1622,7 @@ Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -900,14 +1640,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x4a6b
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[43]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -925,14 +1678,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x4a6b
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[44]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -950,14 +1716,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x4a6b
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[45]:
 Received Packet Size: 217
 Data-Link Layer:
 	Destination: 01:00:5e:7f:ff:fa
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -975,14 +1754,27 @@ Transport Layer[UDP]:
 	Destination Port: 1900
 	Length: 183
 	Checksum: 0x4a6b
-
+Application Layer
+	M - S E A R C 
+	H   *   H T T P / 1 . 1 . . H O 
+	S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+	2 5 0 : 1 9 0 0 . . M A N :   " 
+	s s d p : d i s c o v e r " . . 
+	M X :   1 . . S T :   u r n : d 
+	i a l - m u l t i s c r e e n - 
+	o r g : s e r v i c e : d i a l 
+	: 1 . . U S E R - A G E N T :   
+	M i c r o s o f t   E d g e / 1 
+	0 3 . 0 . 1 2 6 4 . 4 9   W i n 
+	d o w s . . . . 
+	
 Packet[46]:
 Received Packet Size: 74
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1002,7 +1794,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1022,7 +1814,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1040,14 +1832,18 @@ Transport Layer[UDP]:
 	Destination Port: 53
 	Length: 45
 	Checksum: 0x6286
-
+Application Layer
+	. . . . . . . 
+	. . . . . . d e f a u l t . e x 
+	p - t a s . c o m . . . . . 
+	
 Packet[49]:
 Received Packet Size: 161
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1065,14 +1861,23 @@ Transport Layer[UDP]:
 	Destination Port: 52982
 	Length: 127
 	Checksum: 0x7702
-
+Application Layer
+	. . . . . . . 
+	. . . . . . d e f a u l t . e x 
+	p - t a s . c o m . . . . . . . 
+	. . . . . . . . . ( . d e a u l 
+	t - e x p - t a s - c o m . e - 
+	0 0 1 4 . e - m s e d g e . n e 
+	t . . 1 . . . . . . . . . . . D 
+	. D . . . . . . . . . . . k . ] 
+	
 Packet[50]:
 Received Packet Size: 79
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1090,14 +1895,18 @@ Transport Layer[UDP]:
 	Destination Port: 53
 	Length: 45
 	Checksum: 0x6286
-
+Application Layer
+	. d . . . . . 
+	. . . . . . d e f a u l t . e x 
+	p - t a s . c o m . . . . . 
+	
 Packet[51]:
 Received Packet Size: 202
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1115,14 +1924,26 @@ Transport Layer[UDP]:
 	Destination Port: 52982
 	Length: 168
 	Checksum: 0x48ff
-
+Application Layer
+	. d . . . . . 
+	. . . . . . d e f a u l t . e x 
+	p - t a s . c o m . . . . . . . 
+	. . . . . . . . . ( . d e a u l 
+	t - e x p - t a s - c o m . e - 
+	0 0 1 4 . e - m s e d g e . n e 
+	t . . 1 . . . . . . . V . . . D 
+	. K . . . . . . . N . - . n s 1 
+	. K . m s n h s t . m i c r o s 
+	o f t . . x * 0 Q . . . . . . . 
+	. . $ . . . . . . 
+	
 Packet[52]:
 Received Packet Size: 74
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1140,14 +1961,23 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927051
 	Acknowledgement Number: 0
-
+	Data Offset: 10
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   0   0   0   1   0   
+	Advertised Window: 64240
+	Checksum: 0x652e
+	Urgent Offset: 0
+	Options and Padding:
+		02 04 05 b4 04 02 08 0a 6c 73 7d 
+		5c 00 00 00 00 01 03 03 07 
+		
 Packet[53]:
 Received Packet Size: 66
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1165,14 +1995,23 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993684090
 	Acknowledgement Number: 2364927052
-
+	Data Offset: 8
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   1   0   
+	Advertised Window: 65535
+	Checksum: 0x4363
+	Urgent Offset: 0
+	Options and Padding:
+		02 04 05 a0 01 03 03 08 01 01 04 
+		02 
+		
 Packet[54]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1190,6 +2029,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927052
 	Acknowledgement Number: 3993684091
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 502
+	Checksum: 0x651a
+	Urgent Offset: 0
 
 Packet[55]:
 Received Packet Size: 74
@@ -1197,7 +2042,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1217,7 +2062,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1237,7 +2082,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1255,14 +2100,62 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927052
 	Acknowledgement Number: 3993684091
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 502
+	Checksum: 0x67a3
+	Urgent Offset: 0
+Application Layer
+	. . . . . . . . . . . 
+	. . . 9 . S . L . . v 4 . B / . 
+	. . * d . . . + B . . . . S . . 
+	  O . . . . . ~ - . $ . . . \ . 
+	q . Z . H . V . D % ; . . d . . 
+	Q . v . . . . . . . / . + . 0 . 
+	, . . . ' . g . ( . k . . . . . 
+	. . . . . . . . . . . . . . ] . 
+	a . W . S . . . . . . . . . . . 
+	\ . ` . V . R . $ . j . # . @ . 
+	. . . . 9 . 8 . . . . . 3 . 2 . 
+	. . . . . . Q . . . . . . . P . 
+	= . < . 5 . / . . . . . . . . . 
+	. . . . . . d e f a u l t . e x 
+	p - t a s . c o m . . . . . . . 
+	. . . . . . . . . . . . . . . . 
+	. . # . . . . . . . . . = . . . 
+	J . | . . 9 E . . . . | . . I . 
+	= . . . . . . c B . . . . * . . 
+	. . . . h . . . . N s . . g . J 
+	. _ . . . R . . n v M c . . . . 
+	2 . . v y . . T ` R . . . { & . 
+	. . . [ . . . ( . . . _ - . . . 
+	s . . J . + . . . . . . + . . . 
+	. . . . . . H . j . . e q V . . 
+	4 . i . 7 . . Q . . . . . . ^ . 
+	. . . . . . . .   o f . . . 1 . 
+	! . . U p . . . . . J . . a . . 
+	. . . . . . . P N m . . . . . / 
+	. . . . . . ! . c . . B ? . B . 
+	. } . G . . . . z . w . . . . d 
+	i . . . . = . . . . . . 5 M . 1 
+	. . ] . . . . K . . . . . ~ . . 
+	. R . . . . > . . . . . . . . . 
+	. . . . 0 . . . . . . . . . . . 
+	. . . . . . . . . . . . . . . . 
+	. . . . . . . . . . . . . . . . 
+	. . . . . . + . . . . . . . . - 
+	. . . . . 3 . & . $ . . .   . . 
+	. . . . . . X ` . . e O % . . . 
+	. . . $ . . . . . . { p . F 
+	
 Packet[58]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1280,6 +2173,12 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993684091
 	Acknowledgement Number: 2364927701
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 16382
+	Checksum: 0x419b
+	Urgent Offset: 0
 
 Packet[59]:
 Received Packet Size: 1514
@@ -1287,7 +2186,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1305,14 +2204,113 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993685551
 	Acknowledgement Number: 2364927701
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 16382
+	Checksum: 0x1219
+	Urgent Offset: 0
+Application Layer
+	p : / / w w w . m i c 
+	r o s o f t . c o m / p k i o p 
+	s / c r l / M i c r o s o f t % 
+	2 0 A z u r e % 2 0 T L S % 2 0 
+	I s s u i n g % 2 0 C A % 2 0 0 
+	5 . c r l 0 f . . U .   . _ 0 ] 
+	0 Q . . + . . . . . 7 L . } . . 
+	0 A 0 ? . . + . . . . . . . . 3 
+	h t t p : / / w w w . m i c r o 
+	s o f t . c o m / p k i o p s / 
+	D o c s / R e p o s i t o r y . 
+	h t m 0 . . . g . . . . . 0 . . 
+	. U . # . . 0 . . . . . . . . . 
+	. Z . . h . . ] . . & R j h 0 . 
+	. . U . % . . 0 . . . + . . . . 
+	. . . . . + . . . . . . . 0 . . 
+	. * . H . . . . . . . . . . . . 
+	. . 9 6 . 3 . ^ m . . . . . . . 
+	. L . . . . $ . . . j . M . . [ 
+	. . . . . . n . . . v F . . j | 
+	. " . . . ? . . } . . . . . b . 
+	. . . . a ' . h @ D . E . 2 U w 
+	) . t b M . M . . . . . . . * . 
+	. . . . . . . . . _ . q . . . . 
+	. . & . . a m i . Y ' . r L H V 
+	- . s S . . . .   ! . . & . . f 
+	. . ( & . . o . T . . f f . . J 
+	] . . . . . . . . . + . . . H . 
+	. . g . . . . . . . . . % . . . 
+	. . . 2 6 g f . . . \ .   6 . " 
+	. 6 . . . . * . v . . . . ! . . 
+	. . X . . @ . q . . . O . . . . 
+	U . { . . . 2 m . . . > . . w , 
+	. ^ D ~ . 7 . . . . . . D . . H 
+	K   . . . . O . / | . . . . . s 
+	. . \ > . . ' . . ^ 4 . n . . . 
+	p 2 H . . . @ . . . . . . X . . 
+	. . @ . . . a . > . 7 ~ . . . . 
+	. . . . . ; . . . . + / j . - . 
+	. . . . < . . [ . . . . g . . . 
+	H . . . G . W Y . . . . . . . . 
+	. . z . . | . . . . . . . 3 . 4 
+	. . s . f . * . . % . . . [ . . 
+	. H ; . . 1 F . . . . ^ [ . = . 
+	s . . . . . . d r .   . . . . i 
+	< . . x . . . . . . . 5 . . \ . 
+	. . . . . * . t . . < . p ? . b 
+	/ V . . . . . . . . Y z . C . p 
+	. . 2 . } . . z . . 4 9 . 7 . . 
+	. . . . 0 . . . 0 . . . . . . . 
+	. . . . { . . } . . . z R c . . 
+	. . . 0 . . . * . H . . . . . . 
+	. . 0 a 1 . 0 . . . U . . . . U 
+	S 1 . 0 . . . U . . . . D i g i 
+	C e r t   I n c 1 . 0 . . . U . 
+	. . . w w w . d i g i c e r t . 
+	c o m 1   0 . . . U . . . . D i 
+	g i C e r t   G l o b a l   R o 
+	o t   G 2 0 . . . 2 0 0 7 2 9 1 
+	2 3 0 0 0 Z . . 2 4 0 6 2 7 2 3 
+	5 9 5 9 Z 0 Y 1 . 0 . . . U . . 
+	. . U S 1 . 0 . . . U . . . . M 
+	i c r o s o f t   C o r p o r a 
+	t i o n 1 * 0 ( . . U . . . ! M 
+	i c r o s o f t   A z u r e   T 
+	L S   I s s u i n g   C A   0 5 
+	0 . . " 0 . . . * . H . . . . . 
+	. . . . . . . . 0 . . . . . . . 
+	. . e . 9 . . . . T . . . ; . . 
+	. 1 4 . < . # J . . v . . ^ . O 
+	. S . . . | 2 . . J . . . H . 9 
+	R . ! P @ . . . . u ^ m t . . . 
+	. . . . 6 . . . i A S P . . s . 
+	. . . 9 . . V t . . . + O . . . 
+	. . . . . K . . . . . G R . 1 . 
+	L . . . F . . . . . 2 . . / . . 
+	. . . L ~ . . . e i . . . . . . 
+	( . _ E . m . . . . x f 0 . L E 
+	! . q . . > . . . [ . . . / . u 
+	. D 8 . l . . . K E b . z . p . 
+	. . . . . . T . . ; | . . . . l 
+	A L . . . . e . . . . q @ . P . 
+	@ . . . . . . . . n . . y . [ . 
+	. y W . V % . O 8 . . T < . l . 
+	. n . . . 8 . ( 9 : g c . 1 Z A 
+	. . . . . 2 . . t o . R # S . I 
+	. . ; . . . . . . @ . . I . b . 
+	. 7 . ] 3 . . 6 F K . t . K . . 
+	. \ . 6 . . . . . . T . . . : . 
+	. . o i . ) . . d   . M . . . . 
+	J R u . 4 : . N 9 . . . . . . . 
+	X . : A . | 4 p . 
+	
 Packet[60]:
 Received Packet Size: 1514
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1330,14 +2328,113 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993684091
 	Acknowledgement Number: 2364927701
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 16382
+	Checksum: 0x37dd
+	Urgent Offset: 0
+Application Layer
+	. . . . & . . . Y . . 
+	b . V v . . . 8 . { . . . . . . 
+	. . . . . . . " . . . . A . . . 
+	  . . . . . . . } T & . L . ? . 
+	| . = . . Z . ; . ; . W . ' } > 
+	3 . 0 . . . . # . . . . . . . . 
+	. . . . . . . . . . T . . Q . . 
+	T 0 . . P 0 . . 8 . . . . . . . 
+	3 . A . . 3 . . & h ^ . . . . . 
+	A . . 0 . . . * . H . . . . . . 
+	. . 0 Y 1 . 0 . . . U . . . . U 
+	S 1 . 0 . . . U . . . . M i c r 
+	o s o f t   C o r p o r a t i o 
+	n 1 * 0 ( . . U . . . ! M i c r 
+	o s o f t   A z u r e   T L S   
+	I s s u i n g   C A   0 5 0 . . 
+	. 2 2 0 6 2 2 0 1 4 5 5 6 Z . . 
+	2 3 0 6 1 7 0 1 4 5 5 6 Z 0 d 1 
+	. 0 . . . U . . . . U S 1 . 0 . 
+	. . U . . . . W A 1 . 0 . . . U 
+	. . . . R e d m o n d 1 . 0 . . 
+	. U . . . . M i c r o s o f t   
+	C o r p o r a t i o n 1 . 0 . . 
+	. U . . . . * . e x p - t a s . 
+	c o m 0 . . " 0 . . . * . H . . 
+	. . . . . . . . . . . 0 . . . . 
+	. . . . . ! . . : . . . . : . . 
+	7 . 3 Y . n i . . f . . % . . . 
+	. . . . 5 U . . _ j z . f . . . 
+	4 D : . . i . . @ ) . . . . . . 
+	. H r . h L . . < . . ^ . . . . 
+	. L . T . m < . ! D . ^ O . . . 
+	. . . . k . . . K . ^ . . | . X 
+	. h . . . . . . . ; . . e C W 5 
+	. . . . . [ ; . . . ~ . c z j . 
+	. . $ . . . . h . . . . . / v . 
+	. . . . . . . . . & . . | _ N . 
+	. & X . I . T . . . . . . . . . 
+	. . . b . . . & * . . ; . . g . 
+	. . . . % ` . . , X . . . . . " 
+	. . . u . . ; . | . . . . 3 J \ 
+	. ' > . \ . . U . D A . . q O Z 
+	S . | . . . . . . . . . . 0 . . 
+	. 0 . . . . . + . . . . . y . . 
+	. . . . o . . . k . i . v . . . 
+	. . | . . . . . = . . > . j . g 
+	) ] . . . $ . . . 4 . . . . . . 
+	. . . . . . . . . . . G 0 E .   
+	. S . . . L y M . W h . T - . . 
+	X . . f H . . C . . . . r . . . 
+	. ! . . d x ! v . 3 X . . . ) . 
+	# . . * . . . m . Z . . w . . . 
+	H . } . v . z 2 . T . . - .   . 
+	8 . R . . . . p 2 . . M ; . + . 
+	: W . R . R . . . . . . . 4 . . 
+	. . . G 0 E .   < . . . . B ( Z 
+	. . . J h . . 0 . . . I { U . . 
+	r . . . i . . ] . ! . . . p . o 
+	. m . . . . . . . . . . . . . . 
+	. . 7 ; A ; | . . " % . w . . s 
+	w . . . P . c . . . . . . . J y 
+	- . g . . . . . . . y 6 . . . . 
+	. . . . . Y . . . . . H 0 F . ! 
+	. . . 1 . . { . . . . y . . ` . 
+	$ . . f " . . . . . w h . P _ . 
+	. . ! . . . . ( [ . . . + E . . 
+	x . . . . . I . . L N . . _ % Y 
+	. . . . 0 ' . . + . . . . . 7 . 
+	. . . 0 . 0 . . . + . . . . . . 
+	. 0 . . . + . . . . . . . 0 < . 
+	. + . . . . . 7 . . . / 0 - . % 
+	+ . . . . . 7 . . . . . . . . . 
+	F . . . . . . . . . . . ] . . . 
+	i . . . > . . d . . % 0 . . . . 
+	+ . . . . . . . . . . 0 . . 0 m 
+	. . + . . . . . 0 . . a h t t p 
+	: / / w w w . m i c r o s o f t 
+	. c o m / p k i o p s / c e r t 
+	s / M i c r o s o f t % 2 0 A z 
+	u r e % 2 0 T L S % 2 0 I s s u 
+	i n g % 2 0 C A % 2 0 0 5 % 2 0 
+	- % 2 0 x s i g n . c r t 0 - . 
+	. + . . . . . 0 . . ! h t t p : 
+	/ / o n e o c s p . m i c r o s 
+	o f t . c o m / o c s p 0 . . . 
+	U . . . . . . . ) o . . . . . " 
+	m * . . . . h ] . . . 0 . . . U 
+	. . . . . . . . . . . 0 . . . U 
+	. . . . 0 . . . * . e x p - t a 
+	s . c o m 0 . . . U . . . . . . 
+	. 0 . 0 d . . U . . . ] 0 [ 0 Y 
+	. W . U . S h t t 
+	
 Packet[61]:
 Received Packet Size: 1273
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1355,14 +2452,98 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993687011
 	Acknowledgement Number: 2364927701
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 16382
+	Checksum: 0x0781
+	Urgent Offset: 0
+Application Layer
+	5 @ s . . r / ' c . c 
+	. . % . . . . j Z . < . Z . g U 
+	. . . s . . . . . G z . O . . B 
+	. . . . . o . . . . . $ . . . . 
+	e l . . . . . . . . 2 - . . . . 
+	] . 0 . 8 . r . . | . . . . . . 
+	.   - . . . i c . . ` : ; . Z 2 
+	- . J e . . . . , # . l . ^ . . 
+	. . A x j 9 . . D . . s . . . . 
+	. . . . . . 0 . . . 0 . . . U . 
+	. . . . . . . . . . . . Z . . h 
+	. . ] . . & R j h 0 . . . U . # 
+	. . 0 . . . N " T   . . . . n . 
+	. . . . . . . . . 9 0 . . . U . 
+	. . . . . . . . . . 0 . . . U . 
+	% . . 0 . . . + . . . . . . . . 
+	. + . . . . . . . 0 . . . U . . 
+	. . . . . 0 . . . . . . . 0 v . 
+	. + . . . . . . . . j 0 h 0 $ . 
+	. + . . . . . 0 . . . h t t p : 
+	/ / o c s p . d i g i c e r t . 
+	c o m 0 @ . . + . . . . . 0 . . 
+	4 h t t p : / / c a c e r t s . 
+	d i g i c e r t . c o m / D i g 
+	i C e r t G l o b a l R o o t G 
+	2 . c r t 0 { . . U . . . t 0 r 
+	0 7 . 5 . 3 . 1 h t t p : / / c 
+	r l 3 . d i g i c e r t . c o m 
+	/ D i g i C e r t G l o b a l R 
+	o o t G 2 . c r l 0 7 . 5 . 3 . 
+	1 h t t p : / / c r l 4 . d i g 
+	i c e r t . c o m / D i g i C e 
+	r t G l o b a l R o o t G 2 . c 
+	r l 0 . . . U .   . . 0 . 0 . . 
+	. g . . . . . 0 . . . g . . . . 
+	. 0 . . . + . . . . . 7 . . . . 
+	. . . 0 . . . * . H . . . . . . 
+	. . . . . . . . . o . . . ] Z . 
+	1 , . . G . . i S E . . . % . . 
+	. . Z ) . . . M . . . . . . } . 
+	4 . 0 . . . . . . . . . . . . . 
+	. H . . . . . . . . . . . . . . 
+	. . . . . . . . . . { U . . \ q 
+	. ^ n p U . . . ) : v ; . > . . 
+	B ? . Z . S . . j . . . . . . . 
+	f M . . % 5 . . . . . . . H d . 
+	. . . G _ . . . . . . . W . . . 
+	9 . . . * . . 7 . [ . . .   . D 
+	t . . . & 8 . . . E I . . . . . 
+	. . . . . . " V U . k Z . . . . 
+	. ' d C + . v . ^ . . . f . . . 
+	. . . . . 0 L . . z . / h . v . 
+	K . . . . > . . H . . w . O . . 
+	. . . ! . W ; . . . i . . . a . 
+	. . . . . . . & . . . . s Y . . 
+	. . M . $ . D & . M ^ Z . D = . 
+	c . . . A . . y . . . J 5 . L . 
+	. s . . . w . ` y . I . . F > . 
+	. * . i . . . . b . . . . . . e 
+	. . ( s ( $ . . . . . . . o = k 
+	. . . . . . . .   . d c r . & . 
+	. . . = . 6 f . . \ . z B . . . 
+	. * . F | x . . f k . . . f t . 
+	. V . . . . . V ` . . . ) ? L . 
+	. ! c . - . . . . . B . ) . . 9 
+	. 6 . p . . . . . " . < . . . b 
+	. o . g . ; * . < ! . . . v . . 
+	. . ' . p . . . . . . L . { . . 
+	. . . . $ . . . . . . . . P . Q 
+	x S / . . { = 0 . . E X . . . . 
+	: . a . . E . . . L . . E . = . 
+	. . y . < . . . . . 2 + . . . . 
+	. $ R . . . . . . " \ . . . Y m 
+	. _ . . . . Q . .   T . . B . X 
+	. . ~ . . . . l . . . . c . . . 
+	. . . . . ? f . . 1 " K S . . p 
+	. d _ . . . . . 
+	
 Packet[62]:
 Received Packet Size: 66
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1380,14 +2561,23 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927701
 	Acknowledgement Number: 3993684091
-
+	Data Offset: 8
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 502
+	Checksum: 0x6526
+	Urgent Offset: 0
+	Options and Padding:
+		01 01 05 0a ee 0a ce 2f ee 0a d3 
+		e3 
+		
 Packet[63]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1405,6 +2595,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927701
 	Acknowledgement Number: 3993687011
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 496
+	Checksum: 0x651a
+	Urgent Offset: 0
 
 Packet[64]:
 Received Packet Size: 54
@@ -1412,7 +2608,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1430,6 +2626,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927701
 	Acknowledgement Number: 3993688230
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 490
+	Checksum: 0x651a
+	Urgent Offset: 0
 
 Packet[65]:
 Received Packet Size: 212
@@ -1437,7 +2639,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1455,14 +2657,32 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927701
 	Acknowledgement Number: 3993688230
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x65b8
+	Urgent Offset: 0
+Application Layer
+	. . . . f . . . b a . 
+	. . . X M . . . G . $ . . u . . 
+	. . . . i D . V . G . . . . B s 
+	" . . . . . . 7 . . . . . 5 . m 
+	L . ~ < . . 6 . ^ # B . . + 8 . 
+	g B ) ! . . . . , < . J . 0 R H 
+	. . . . . . . h \ k 6 . . . J . 
+	. . . . . . . . . . ( . i E . . 
+	. . . ( . 0 + 2 C A . ; . . . . 
+	. . } R m n . . ; . p B ? . . . 
+	/ I T 
+	
 Packet[66]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1480,6 +2700,12 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993688230
 	Acknowledgement Number: 2364927859
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 16381
+	Checksum: 0x30d3
+	Urgent Offset: 0
 
 Packet[67]:
 Received Packet Size: 396
@@ -1487,7 +2713,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1505,14 +2731,43 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993688230
 	Acknowledgement Number: 2364927859
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 16381
+	Checksum: 0xdf97
+	Urgent Offset: 0
+Application Layer
+	. . . . . . . . . . . 
+	. . . . . . . . . . s 3 C 0 @ G 
+	. . . . . . . ; s C D ' . . . N 
+	. L d . : 6 / . u / . . .   . . 
+	. . u . . . . . J \ . . . . ! . 
+	b . . 8 . . . . . . . . : R . . 
+	3 q @ . . . S _ _ 1 \ . \ . 4 N 
+	. & u . d . . _ . . n ~ . 9 . . 
+	. . . . .   m . . w . . . . . . 
+	. . + . . . . . 7 . x . 1 . . . 
+	. . . 1 = \ . : . . . = . . s . 
+	) / . m . . . . # . , . . l . . 
+	. . n . ^ . m . . . . d W . . . 
+	l . K . P . . . . . P N . . . V 
+	. . . O . . | s N . . . . 6 . . 
+	c Q . 8 : . . . ! f . o . H . . 
+	. . . m 1 f P . . 1 \ i . . Q y 
+	. . . . & { . & . . . . . . . . 
+	. & . . . . . ~ . . . . . . . . 
+	. . ( . . . . . . . . . X . . . 
+	( . . v . . N . W . . . . _ . . 
+	< ( t 9 b . . t . . . 
+	
 Packet[68]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1530,6 +2785,12 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927859
 	Acknowledgement Number: 3993688572
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x651a
+	Urgent Offset: 0
 
 Packet[69]:
 Received Packet Size: 550
@@ -1537,7 +2798,7 @@ Data-Link Layer:
 	Destination: 00:15:5d:86:c3:0b
 	Source: 00:15:5d:df:7b:ee
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1555,14 +2816,53 @@ Transport Layer[TCP]:
 	Destination Port: 443
 	Sequence Number: 2364927859
 	Acknowledgement Number: 3993688572
-
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   1   0   0   0   
+	Advertised Window: 501
+	Checksum: 0x670a
+	Urgent Offset: 0
+Application Layer
+	. . . . . . i E . . . 
+	. . . . . d . . . . . C " R . A 
+	^ + . . . . . . . . . . . b . . 
+	G i . . . . , T . . . . i x p . 
+	. . . N , . . . . . . P . . . . 
+	v . + " ; . . . 4 . . . . X . . 
+	b . . $ . . . . . . + . . . . ~ 
+	. . . . . ; # . . @ . d y D % . 
+	. [ o . . E { / " T B . & _ ; . 
+	. M . . . . & . . . A . . . . . 
+	. . 8 $ . . . O . . . . . ( ) . 
+	. M V . . . . . . 4 . l . ^ o . 
+	. J 0 = . H . o . . . . . F . . 
+	. k O / . 0 . . 3 I . . . . . . 
+	= . . _ . . . L . . O . . 9 f . 
+	. . J . 3 A . . + " . . . } J . 
+	. . a T . . x . . . . . Y K + . 
+	# . r . . u . . . J   . } . . . 
+	@ . . . . $ = I . . . . . # . . 
+	. . . @ . . . { . . . O . ) 0 . 
+	. # y . . . . / I . J . . .   x 
+	. L = . I . . . . t H . . . * r 
+	" Q . . $ . J . 4 . . . . . . . 
+	. Z . . P z . . . . . 0 0 f l ~ 
+	x . . + . r l X = . ^ . . . 1 . 
+	. - . . . t @ . 8 . y I . . ' 9 
+	m . . , . x / . [ w . . 7 . % 2 
+	r . z . . . . . A ! . . c . } o 
+	. . . . p . . . . g . . . @ _ t 
+	. t . q . . W . . / 1 . . . b . 
+	o . . T 7 . . . . K . . ) . . . 
+	) . . R . 
+	
 Packet[70]:
 Received Packet Size: 54
 Data-Link Layer:
 	Destination: 00:15:5d:df:7b:ee
 	Source: 00:15:5d:86:c3:0b
 	Type: 0x0800
-Network Layer:
+Network Layer[IP]:
 	Ver.: 0x4
 	THL: 0x5
 	Type of Service: 0x00
@@ -1580,3 +2880,9 @@ Transport Layer[TCP]:
 	Destination Port: 38190
 	Sequence Number: 3993688572
 	Acknowledgement Number: 2364928355
+	Data Offset: 5
+	FLAGS:	URG	ACK	PSH	RST	SYN	FIN
+	      	0   1   0   0   0   0   
+	Advertised Window: 16379
+	Checksum: 0x2d8f
+	Urgent Offset: 0
