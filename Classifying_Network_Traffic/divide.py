@@ -16,7 +16,8 @@ def process_packets(pcapfile):
     packets = rdpcap(pcapfile)
     flows = []
     dict_tuple_pcap = {} # 字典 five_tuple --> pcapfile
-    pcapfile_prefix = pcapfile[:pcapfile.find('.')]
+    pcapfile_prefix = pcapfile[0:pcapfile.find('pcap') - 1]
+    #print(pcapfile_prefix)
     file_seq = 0
     #print(packets)
     #i = 0
