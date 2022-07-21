@@ -111,7 +111,7 @@ int main(int argc, char *argv[]) {
                 printf("\tSequence Number: %u\n", ntohl(tcph->seq));
                 printf("\tAcknowledgement Number: %u\n", ntohl(tcph->ack_seq));
                 printf("\tData Offset: %u\n", tcph->doff);
-                printf("\tFLAGS:\tURG\tACK\tPSH\tRST\tSYN\tFIN\n");
+                printf("\tFLAGS:\tURG ACK PSH RST SYN FIN\n");
                 printf("\t      \t%-4x%-4x%-4x%-4x%-4x%-4x\n", tcph->urg, tcph->ack, tcph->psh, tcph->rst, tcph->syn, tcph->fin);
                 printf("\tAdvertised Window: %u\n", ntohs(tcph->window));
                 printf("\tChecksum: 0x%04x\n", ntohs(tcph->check));
